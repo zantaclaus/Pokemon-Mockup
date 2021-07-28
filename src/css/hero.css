@@ -1,0 +1,21 @@
+.hero__header {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+  font-size: 30px;
+}
+
+.hero__content {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.hero__btn {
+  display: flex;
+  justify-content: center;
+}
+
+.hero__botton {
+  padding: 5px;
+}

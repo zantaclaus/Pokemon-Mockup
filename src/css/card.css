@@ -1,0 +1,45 @@
+.card {
+  margin: 0 20px;
+}
+
+.card__id {
+  font-size: 30px;
+}
+
+.card__name {
+  font-size: 30px;
+}
+
+.card__type {
+  margin-top: 5px;
+  width: 80px;
+}
+
+.type--grass {
+  background-color: aquamarine;
+}
+.type--fire {
+  background-color: tomato;
+}
+.type--water {
+  background-color: rgb(86, 208, 224);
+}
+.type--bug {
+  background-color: brown;
+}
+
+.card__type h4 {
+  border: 1px solid #000;
+
+  text-align: center;
+  padding: 3px;
+}
+
+.card__image img {
+  width: 200px;
+  height: 200px;
+}
+
+.card__image {
+  background-color: chartreuse;
+}
